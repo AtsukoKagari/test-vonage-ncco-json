@@ -6,11 +6,11 @@
   {
     "action": "connect",
     "timeout": 45,
-    "from": "+112086896268",
+    "from": "112086896268",
     "endpoint": [
       {
         "type": "phone",
-        "number": "+16463845435"
+        "number": "16463845435"
       }
     ]
   }
